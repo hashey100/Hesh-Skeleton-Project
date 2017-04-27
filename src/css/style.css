@@ -1,0 +1,41 @@
+/*  (If no transition defined, default to linear)
+	div  {
+		@include transition(all, 1s, ease-in-out)
+	}
+*/
+/*
+	div {
+		@include borderRadius(10px);
+	}
+*/
+/* Placeholder mixin for crossbrowser placeholders */
+/* example:
+input {
+	@include placeholder {
+		color: black;
+	}
+} */
+/* white space fix cross browser */
+/* body a {
+    @include whiteSpace
+}
+
+*/
+/* include fonts */
+/* example : @include oxygenLight(1.2em) { color:black; } */
+/* media query mixins */
+/* Example:
+
+	div {
+		@include mobilePortrat {
+			height:50px;
+		}
+	}
+*/
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #222;
+  font-size: 13px;
+  background: purple; }
+
+/*# sourceMappingURL=style.css.map */
