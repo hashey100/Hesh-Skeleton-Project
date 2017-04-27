@@ -3,8 +3,8 @@
 <h2>How to setup</h2>
 <pre>
 <code>
-cd 'directory' <br>
-git clone this repo
+>> cd 'directory' <br>
+>> git clone this repo
 </code>
 </pre>
 
@@ -12,7 +12,6 @@ git clone this repo
 <pre>
 <code>
 >> npm install </br>
-open terminal </br>
 >> grunt 
 </code>
 </pre>
