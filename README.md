@@ -34,4 +34,7 @@ Minify images
 <br>
 Watch live updates 
 <a href="https://github.com/gruntjs/grunt-contrib-watch">grunt-contrib-watch</a>
+<br>
+BrowserSync
+<a href="https://github.com/BrowserSync/grunt-browser-sync">grunt-browser-sync</a>
 </p>
