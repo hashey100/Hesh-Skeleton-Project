@@ -5,20 +5,9 @@
 <code>
 >> cd 'directory' <br>
 >> git clone this repo
+>> npm install
 </code>
 </pre>
-
-<h2>To Build Project</h2>
-<pre>
-<code>
->> npm install </br>
->> grunt 
-</code>
-</pre>
-<ul>
-<li>Minifies CSS & JS files</li>
-<li>Minifies images</li>
-</ul>
 
 <h2>How to run</h2>
 <pre>
