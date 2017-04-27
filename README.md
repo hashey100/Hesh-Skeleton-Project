@@ -12,7 +12,7 @@
 <h2>How to run</h2>
 <pre>
 <code>
-grunt dev
+>> grunt dev
 </code>
 </pre>
 <p>This project uses browserSync and grunt-contrib-watch so when <br>
