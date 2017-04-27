@@ -31,7 +31,7 @@ live changes are made to the index.html file or css file it syncs up automatical
 
 <h3>Packages used</h3>
 <p>
-Uglify
+Uglify 
 <a href="https://github.com/gruntjs/grunt-contrib-uglify">grunt-contrib-uglify</a>
 <br>
 SASS compiler
