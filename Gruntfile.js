@@ -52,7 +52,7 @@ module.exports = function(grunt) {
         tasks: ['sass','cssmin']
       },  // for scripts, run jshint and uglify
       scripts: {
-        files: 'src/**/*.js',
+        files: 'src/js/script.js',
         tasks: ['uglify']
       }
     },
@@ -60,7 +60,7 @@ module.exports = function(grunt) {
       dev: {
         bsFiles: {
           src: [
-            'src/js/*.js',
+            'src/js/script.min.js',
             'src/css/*.css',
             'src/*.html'
           ]
